@@ -1,0 +1,6 @@
+Коли пробую зробити POST або PUT запит => {
+    SyntaxError: Unexpected token D in JSON at position 105
+}
+
+Api routes => "./routes/api/users.js"
+Api reference => "./routes/json/Users.js"
