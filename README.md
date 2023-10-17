@@ -1,4 +1,5 @@
-![GitHub deployments](https://img.shields.io/github/deployments/NemoX12/test-rest-api-exprees/Production?label=Vercel)
+<!-- ![GitHub deployments](https://img.shields.io/github/deployments/NemoX12/test-rest-api-exprees/Production?label=Vercel) -->
+
 ![GitHub top language](https://img.shields.io/github/languages/top/NemoX12/test-rest-api-exprees?color=%23fcd303)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/NemoX12/test-rest-api-exprees/master?label=Project%20Version&color=%23fc0303)
 
